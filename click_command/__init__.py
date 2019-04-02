@@ -1,5 +1,5 @@
 import click
-from click_flask_command.cli import testcli
+from .click_flask_command.cli import testcli
 
 @click.group()
 def click_command():

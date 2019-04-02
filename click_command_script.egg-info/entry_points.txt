@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        click_command_run=click_command:click_command
+    

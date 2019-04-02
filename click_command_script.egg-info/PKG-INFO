@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: click-command-script
+Version: 1.0
+Summary: 命令行管理工具
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: 此版本是基于click模块开发的易于管理常用脚本命令同时复用函数模块
+Platform: UNKNOWN

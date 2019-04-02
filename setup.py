@@ -17,6 +17,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        click_command_run=main:click_command
+        click_command_run=click_command:click_command
     '''
 )
