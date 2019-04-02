@@ -5,13 +5,13 @@ from .son import son
 
 @click.group()
 def testcli():
-    """testcli."""
+    """testcli. 模块"""
     pass
 
 
 @testcli.command()
 def init():
-	"""inits"""
+	"""testcli inits"""
 	value = foo()
 	print("inits...", value)
 

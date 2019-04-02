@@ -2,8 +2,12 @@ import click
 
 @click.group()
 def son():
+	'''我是son模块
+	'''
 	pass
 
 @son.command()
 def run():
-	print("run...")
+	'''son模块run
+	'''
+	print("run... son")
